@@ -1,6 +1,6 @@
 ## 👋 Olá, Eu sou a Fernanda
 
-- 💻 Sou estudante de desenvolvimento web e tenho interresse em aprender ainda mais sobre front-end.
+- 💻 Sou estudante de desenvolvimento web e estou buscando aprender cada vez mais sobre front-end.
 - 📫Contate-me no email: fernandaborges133@gmail.com
 
 
