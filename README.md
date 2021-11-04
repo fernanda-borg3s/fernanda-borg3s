@@ -1,6 +1,7 @@
 ## 👋 Olá, Eu sou a Fernanda
 
-- 💻 Sou estudante de desenvolvimento web e estou buscando aprender cada vez mais sobre front-end.
+- 👩‍🎓 Sou estudante de desenvolvimento web e estou buscando aprender cada vez mais sobre front-end.
+- 💻 Procuro oportunidade de emprego para colocar em prática meus conhecimentos.
 - 📫Contate-me no email: fernandaborgesb4@gmail.com
 
 
