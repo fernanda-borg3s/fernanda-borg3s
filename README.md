@@ -3,7 +3,7 @@
 - 👩‍🎓 Sou estudante de desenvolvimento web e estou buscando aprender cada vez mais sobre front-end.
 - 💻 Procuro oportunidade de emprego para colocar em prática meus conhecimentos.
 - 📫Contate-me no email: fernandaborgesb4@gmail.com
-- 💻 Confira meu portfólio: https://fernandaborges-portifolio.netlify.app/
+- 💻 Confira meu portfólio: https://fernandaborges.netlify.app/
 
 
 <div style= "display: inline_block" >
