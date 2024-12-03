@@ -11,9 +11,9 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" height="30" width="40"/>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" height="30" width="40"/>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" height="30" width="40"/>
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" height="30" width="40"/>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" height="30" width="40"/>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" height="30" width="40"/>
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" height="30" width="40"/>
 </div>
 <h2>Redes Sociais</h2>
 <p>Confira atividades e projetos em desenvolvimento nos links abaixo:</p>
