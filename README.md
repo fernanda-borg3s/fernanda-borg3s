@@ -1,6 +1,6 @@
 ## 👋 Olá, Eu sou a Fernanda
 
-- 👩‍🎓 Sou estudante de desenvolvimento web e estou buscando aprender cada vez mais sobre front-end.
+- 👩‍🎓 Sou formada em desenvolvimento de software e estou buscando aprender cada vez mais sobre front-end.
 - 💻 Procuro oportunidade de emprego para colocar em prática meus conhecimentos.
 - 📫Contate-me no email: fernandaborgesb4@gmail.com
 - 💻 Confira meu portfólio: https://fernandaborges.netlify.app/
