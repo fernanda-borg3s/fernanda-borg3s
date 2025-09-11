@@ -40,7 +40,9 @@
 
 ## Estatísticas do Github:
 <div style= "display: inline_block" >
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=fernanda-borg3s&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-borg3s&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 </div>
 
