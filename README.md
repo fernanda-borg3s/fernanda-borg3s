@@ -38,13 +38,13 @@
 
 ## Estatísticas do Github:
 <div align="center">
-  <div style="display: inline-block; margin-right: 10px;">
-    ![](https://nirzak-streak-stats.vercel.app/?user=fernanda-borg3s&theme=dracula&hide_border=false)
-  </div>
-  <div style="display: inline-block">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-borg3s&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-  </div>
+    <div style="display: inline-block; margin: 0 10px;">
+        <img src="https://streak-stats.vercel.app/?user=fernanda-borges&theme=dracula&hide_border=false" alt="GitHub Streak Stats" width="400"/>
+    </div><div style="display: inline-block; margin: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-borges&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Top Languages" width="400"/>
+    </div>
 </div>
+
 
 
 
