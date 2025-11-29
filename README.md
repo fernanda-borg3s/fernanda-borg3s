@@ -31,14 +31,21 @@
 
 ## Redes Sociais
 <p>Confira atividades e projetos em desenvolvimento nos links abaixo:</p>
-<div style= "display: flex" >
+<div style="display: inline-block">
   <a href="https://codepen.io/fernanda-borg3s" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fernanda-borges-512b4a1b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ## Estatísticas do Github:
-  
-![](https://nirzak-streak-stats.vercel.app/?user=fernanda-borg3s&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-borg3s&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <div style="display: inline-block; margin-right: 10px;">
+    ![](https://nirzak-streak-stats.vercel.app/?user=fernanda-borg3s&theme=dracula&hide_border=false)
+  </div>
+  <div style="display: inline-block">
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-borg3s&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  </div>
+</div>
+
+
 
 
