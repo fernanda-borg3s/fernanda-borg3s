@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou a Fernanda
 
-- 👩‍🎓 Sou formada em desenvolvimento de software e estou buscando aprender cada vez mais sobre front-end.
+- 👩‍🎓 Sou técnica em desenvolvimento de sistemas web e formada em sistemas para internet.
 - 💻 Procuro oportunidade de emprego para colocar em prática meus conhecimentos.
 - 📫Contate-me no email: fernandaborgesb4@gmail.com
 - 💻 Confira meu portfólio: https://fernandaborges.netlify.app/
@@ -15,6 +15,8 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" height="30" width="40"/>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" height="30" width="40"/> 
 </div>
+
+  ## 
   
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
